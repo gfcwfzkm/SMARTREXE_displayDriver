@@ -5,4 +5,4 @@ Whoo, my first github upload!
 
 So, this is a driver for pixel-precise writing onto the display.
 It also features additional functions to create a temporary buffer on the microcontroller,
-to bypass the problem hat the display controller cannot be read with a SPI interface (as it is with the Smart Resp... XE).
+to bypass the problem that the display controller cannot be read back with a SPI interface.
